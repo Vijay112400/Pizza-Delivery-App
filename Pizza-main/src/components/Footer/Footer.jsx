@@ -64,7 +64,7 @@ const Footer = () => {
         <Row className="mt-5">
           <Col lg="6" md="6">
             <p className="copyright__text">
-              Copyright - 2022, website made by V Vinesh. All Rights
+              Copyright - 2022, website made by Mudavath Vijay. All Rights
               Reserved.
             </p>
           </Col>
@@ -72,21 +72,21 @@ const Footer = () => {
             <div className="social__links d-flex align-items-center gap-4 justify-content-end">
               <p className="m-0">Follow: </p>
               <span>
-                <Link to="https://github.com/Vinesh-24https://github.com/muhib160">
+                <Link to="https://github.com/Vijay112400/muhib160">
                   <i class="ri-github-line"></i>
                 </Link>
               </span>
 
               <span>
                 {" "}
-                <Link to=" https://twitter.com/VVINESH6">
+                <Link to=" https://twitter.com/__vijay__11__">
                   <i class="ri-twitter-line"></i>
                 </Link>{" "}
               </span>
 
               <span>
                 {" "}
-                <Link to="https://www.linkedin.com/in/v-vinesh-105365207/">
+                <Link to="https://www.linkedin.com/in/vijay-m-405a1718b/">
                   <i class="ri-linkedin-line"></i>
                 </Link>{" "}
               </span>
